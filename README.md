@@ -9,3 +9,9 @@ A calculadora possui as quatro operações básicas, foi construída baseada em 
 * CSS
 * JS
 * Visual Studio Code (VS Code)
+
+# **Foto da Calculadora**
+
+<div>
+  <img src= "foto_da_calculadora.png">
+</div>
